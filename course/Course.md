@@ -3,7 +3,7 @@ lectures:
     - lecture-01.md
     - lecture-02.md
     - lecture-03.md
-title: Test Course
+title: Test Course from GitHub
 ---
 
 This is the frontpage of a test course.
