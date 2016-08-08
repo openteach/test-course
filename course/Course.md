@@ -20,4 +20,8 @@ This is the frontpage of a test course.
 
 ###### Header 6
 
-
+| T | E | S | T | . |
+|---|---|---|---|---|
+| a | d | g | j | m |
+| b | e | h | k | n |
+| c | f | i | l | o |
