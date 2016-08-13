@@ -4,6 +4,10 @@ lectures:
     - lecture-02.md
     - lecture-03.md
 title: Test Course from GitHub
+tags:
+    - test
+    - examples
+difficulty: 0 # 0 to 5, 0 is easiest, 5 hardest
 ---
 
 This is the frontpage of a test course.
