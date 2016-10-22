@@ -1,19 +1,19 @@
-# test-course
-Repository showing general structure og a course
+# test-book
+Repository showing general structure of a book.
 
-The course in this repository is in the folder `course`. This
-means that the instructor should configure this course as
+The book in this repository is in the folder `book`. This
+means that the instructor should configure this book as
 follows:
 
 ```
 {
-    url : "git@github.com:openteach/test-course.git/course"
+    "ghUser" : "openteach",
+    "ghRepo" : "test-course",
+    "base"   : "/book"
 }
 ```
 
 There are numerous reasons for this structure:
 
-* Integrated well with leanpub: the book in `manuscript` and the
-  corresponding course in `course` in the same repository.
-* Multiple courses in same repository
-* Courses in the same repository as the instructor files
+* Multiple books in same repository
+* Books in the same repository as the instructor files
