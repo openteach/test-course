@@ -1,5 +1,5 @@
 ---
-lectures:
+chapters:
     - chapter-01.md
     - chapter-02.md
     - chapter-03.md
